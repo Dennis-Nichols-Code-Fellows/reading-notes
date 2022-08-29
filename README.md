@@ -13,7 +13,7 @@
   3. What's this page for?
  
  - On this page, I will be storing reading notes and class assignments from Code 102 and subsequent courses.
- 
+
 ## The growth mindset
  
 ### What is a *growth mindset*?
