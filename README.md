@@ -14,13 +14,13 @@
  
  - On this page, I will be storing reading notes and class assignments from Code 102 and subsequent courses.
  
- ## The growth mindset
+## The growth mindset
  
- ### What is a *growth mindset*?
+### What is a *growth mindset*?
  
  A growth mindset entails the belief that you as an individual can learn any new skill with sufficient effort. It is the worldview that we humans are not static but rather dynamic beings who constantly adapt to new challenges.
  
- ### Reminders to stay in a growth mindset
+### Reminders to stay in a growth mindset
  
  - Everyone has bad days, focus on the long term and trend over individual data points.
   A letter from the famous biologist Charles Darwin to his friend Charles Lyell included the following, oddly reassuring, phrase:
