@@ -30,15 +30,20 @@ Important features in a text editor:
 
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
--
--
--
+- Covers basic commands for navigating through your computer's file structure using the CLI (more detail in the cheatsheet).
+- Additional options for some commands (such as ls) are discussed
+- Filepaths (absolute and relative) are explained
+
+Key concepts:
+**Relative path** A file or directory location relative to where we currently are in the file system.
+**Absolute path** A file or directory location in relation to the root of the file system.
 
 [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
--
--
--
+- Within linux, everything is a file.
+- Linux is *extentionless*. Instead of using extensions to determine file types, it just looks inside.
+- Linux is case sensitive.
+- File names with spaces in between need to be quoted or include escape characters (\).
 
 ### CLI cheatsheet
 
