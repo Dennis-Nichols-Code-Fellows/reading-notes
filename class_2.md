@@ -47,8 +47,8 @@ Key concepts:
 
 ### CLI cheatsheet
 
-1. `pwd` ->
+1. `pwd` -> print working directory -> the 'you are here' command
 
-2. `ls` ->
+2. `ls` -> 'lists' the files and other directories within the current directory.
 
-3. `cd` ->
+3. `cd` -> change directory -> move from one folder to the next, or several folders away with modifications to the command.
