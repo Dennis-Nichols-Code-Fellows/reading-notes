@@ -13,6 +13,12 @@
   3. What's this page for?
  
  - On this page, I will be storing reading notes and class assignments from Code 102 and subsequent courses.
+ 
+## Table of Contents
+
+1. Class 1 - The growth mindset (below)
+2. [Class 2](https://dennis-nichols.github.io/reading-notes/class_2) - The Coder's Computer
+3. [Class 3](https://dennis-nichols.github.io/reading-notes/class_3) - Version Control
 
 ## The growth mindset
  
