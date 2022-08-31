@@ -22,3 +22,4 @@
 * [Class 3](https://dennis-nichols.github.io/reading-notes/class_3) - Version Control
 * [Class 4](https://dennis-nichols.github.io/reading-notes/class_4) - Structure Web Pages with HTML
 * [Class 5](https://dennis-nichols.github.io/reading-notes/class_5) - Styling with CSS
+* [Class 6](https://dennis-nichols.github.io/reading-notes/class_6) - Javascript
