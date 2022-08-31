@@ -43,3 +43,24 @@ A local git repo consists of three components:
 1. Working Directory - the file resides here (may be modified vs. the head)
 2. Index - an area used for staging changes
 3. Head - points to the most recently committed version of a file.
+
+**Staging** with the command `git add` moves a file from your wd to the index.
+**Committing** with the command `git commit -m 'commit message'` takes a snapshot of the current file and attaches a brief message to it.
+
+**Tracked** files are those which were present in the most recent commit.
+**Untracked** files are in neither the most recent commit snapshot nor the staging area.
+
+You can check what files are tracked or untracked with the command `git status`.
+
+A single file may be tracked with the command `git add filename` while the entire directory may be tracked with `git add *`.
+
+### Syncing the local and remote repos
+
+To send the most recent snapshots from your local machine to a remote repo, use the command `git push origin master`.
+
+#### Seeing remotes
+
+You can use the command `git remote` to see the names of remote repos connected to your machine.
+
+### Stashing
+When you are not ready to commit changes but do not want to lose them either, `git stash` is a great option. This command temporarily removes changes and hides them, giving you a clean working directory. When you are ready to continue working on the changes, simply use the `git stash apply` (although I think this may be `git stash pop` now) command to retrieve the hidden changes.
