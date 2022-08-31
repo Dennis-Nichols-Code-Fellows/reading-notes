@@ -20,11 +20,5 @@
 * [Class 1](https://dennis-nichols.github.io/reading-notes/class_1) - Markdown
 * [Class 2](https://dennis-nichols.github.io/reading-notes/class_2) - The Coder's Computer
 * [Class 3](https://dennis-nichols.github.io/reading-notes/class_3) - Version Control
-
-
- 
- 
- 
- 
- 
- 
+* [Class 4](https://dennis-nichols.github.io/reading-notes/class_4) - Structure Web Pages with HTML
+* [Class 5](https://dennis-nichols.github.io/reading-notes/class_5) - Styling with CSS
