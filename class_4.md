@@ -65,5 +65,9 @@ It is important that the elements have their tags in the right order to be prope
 
 Some elements have no content and are called empty elements. `<img>` elements are a common example. This contains attributes, but there is no closing </img> tag and no inner content. This is because an image element doesn't wrap content to affect it. Its purpose is to embed an image in the HTML page in the place it appears.
 
+## [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
+In programming, **Semantics** refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)
+
+With respect to HTML, semantic tags would be ones like `<h1>` or `<section>` which actually describe the function the content they are marking up fulfills. On the other hand, tags like `<div>` and `<span>` do not have semantic meaning and should be used more sparingly to increase code legibility.
 

@@ -16,24 +16,12 @@
  
 ## Table of Contents
 
-1. Class 1 - The growth mindset (below)
-2. [Class 2](https://dennis-nichols.github.io/reading-notes/class_2) - The Coder's Computer
-3. [Class 3](https://dennis-nichols.github.io/reading-notes/class_3) - Version Control
+* [Class 0](https://dennis-nichols.github.io/reading-notes/class_0) - The Growth Mindset
+* [Class 1](https://dennis-nichols.github.io/reading-notes/class_1) - Markdown
+* [Class 2](https://dennis-nichols.github.io/reading-notes/class_2) - The Coder's Computer
+* [Class 3](https://dennis-nichols.github.io/reading-notes/class_3) - Version Control
 
-## The growth mindset
- 
-### What is a *growth mindset*?
- 
- A growth mindset entails the belief that you as an individual can learn any new skill with sufficient effort. It is the worldview that we humans are not static but rather dynamic beings who constantly adapt to new challenges.
- 
-### Reminders to stay in a growth mindset
- 
- - Everyone has bad days, focus on the long term and trend over individual data points.
-  A letter from the famous biologist Charles Darwin to his friend Charles Lyell included the following, oddly reassuring, phrase:
-  >I am very poorly today & very stupid & hate everybody & everything.
-  
- - Don't be afraid of rabit holes, but don't dig them too deeply.
- - Sometimes you just need to describe a problem out loud and the answer will come to you.
+
  
  
  
