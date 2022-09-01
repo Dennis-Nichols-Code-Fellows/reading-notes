@@ -26,3 +26,4 @@
 - [Class 5](https://dennis-nichols.github.io/reading-notes/class_5) - Styling with CSS
 - [Class 6](https://dennis-nichols.github.io/reading-notes/class_6) - Javascript
 - [Class 7](https://dennis-nichols.github.io/reading-notes/class_7) - Programming with Javascript
+- [Class 8](https://dennis-nichols.github.io/reading-notes/class_8) - Loops and Operators
