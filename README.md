@@ -3,8 +3,7 @@
   **Who Am I?**
 
 - I'm **Dennis Nichols**, a current **Code Fellows** student in Code 102.
-- Most recently, I worked for the **US CDC** as a project manager in the field of global water, sanitation, and hygiene.
-- I've also served in the **US Navy** as a nuclear electronics technician.
+- Most recently, I worked for the **US CDC** as a project manager in the field of global water, sanitation, and hygiene. I've also served in the **US Navy** as a nuclear electronics technician.
 
   **How to contact me?**
 
@@ -27,3 +26,11 @@
 - [Class 6](https://dennis-nichols.github.io/reading-notes/class_6) - Javascript
 - [Class 7](https://dennis-nichols.github.io/reading-notes/class_7) - Programming with Javascript
 - [Class 8](https://dennis-nichols.github.io/reading-notes/class_8) - Loops and Operators
+
+## Code 201
+
+
+## Projects outside of class
+
+1. [Rock Paper Scissors](https://dennis-nichols.github.io/yt_group_projects/rps1_notes_dn)
+
