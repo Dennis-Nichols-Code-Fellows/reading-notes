@@ -34,4 +34,3 @@
 ## Projects outside of class
 
 1. [Rock Paper Scissors](https://dennis-nichols.github.io/yt_group_projects/rps1_notes_dn)
-
