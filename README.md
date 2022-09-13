@@ -30,6 +30,7 @@
 ## Code 201
 
 - [Class 1](https://dennis-nichols.github.io/reading-notes/201_class_1)
+- [Class 2](https://dennis-nichols.github.io/reading-notes/201_class_2)
 
 ## Projects outside of class
 
