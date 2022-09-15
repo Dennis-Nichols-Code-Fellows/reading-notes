@@ -33,6 +33,7 @@
 - [Class 2](https://dennis-nichols.github.io/reading-notes/201_class_2)
 - [Class 3](https://dennis-nichols.github.io/reading-notes/201_class_3)
 - [Class 4](https://dennis-nichols.github.io/reading-notes/201_class_4)
+- [Class 5](https://dennis-nichols.github.io/reading-notes/201_class_5)
 
 ## Projects outside of class
 
