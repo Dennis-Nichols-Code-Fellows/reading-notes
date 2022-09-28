@@ -41,6 +41,7 @@
 - [Class 10](https://dennis-nichols.github.io/reading-notes/201_class_10)
 - [Class 11](https://dennis-nichols.github.io/reading-notes/201_class_11)
 - [Class 12](https://dennis-nichols.github.io/reading-notes/201_class_12)
+- [Class 13](https://dennis-nichols.github.io/reading-notes/201_class_13)
 
 ## Projects outside of class
 
