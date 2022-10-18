@@ -48,7 +48,7 @@
 ## Code 301
 
 - [Class 1](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_1)
-- [Class 1](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_2)
+- [Class 2](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_2)
 
 ## Projects outside of class
 
