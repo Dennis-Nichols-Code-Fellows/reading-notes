@@ -50,6 +50,8 @@
 - [Class 1](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_1)
 - [Class 2](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_2)
 - [Class 3](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_3)
+- [Class 4](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_4)
+- [Class 5](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_5)
 
 ## Projects outside of class
 
