@@ -54,6 +54,7 @@
 - [Class 5](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_5)
 - [Class 6](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_6)
 - [Class 7](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_7)
+- [Class 8](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_8)
 
 ## Projects outside of class
 
