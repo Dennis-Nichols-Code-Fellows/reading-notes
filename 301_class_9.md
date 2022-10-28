@@ -31,3 +31,23 @@ Usew require.
 
 4. What do we have to do to make a module available?
 We have to export it.
+
+## [JS Error Messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+
+1. What is a ‘reference error’?
+When a variable or function is not defined before it is called.
+
+2. What is a ‘syntax error’?
+When you are using improper syntax for the language in question.
+
+3. What is a ‘range error’?
+When an object has an improper length, such as an arrray with a length of -1.
+
+4. What is a ‘type error’?
+When an operation for one kind of type is attempted on something of the incorrect type.
+
+5. What is a breakpoint?
+A breakpoint can be defined with developer tools as a line where the program will stop and you can see what has happended up until that point.
+
+6. What does the word ‘debugger’ do in your code?
+This is an interface you can use to see breakpoints and the call stack.
