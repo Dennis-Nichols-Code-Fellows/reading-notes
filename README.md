@@ -60,6 +60,9 @@
 - [Class 11](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_11)
 - [Class 12](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_12)
 
+## Code 401 Prepwork
+- [SQL notes]()
+
 ## Projects outside of class
 
 1. [Rock Paper Scissors](https://dennis-nichols.github.io/yt_group_projects/rps1_notes_dn)
