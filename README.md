@@ -61,7 +61,9 @@
 - [Class 12](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_12)
 
 ## Code 401 Prepwork
-- [SQL notes]()
+
+- [SQL notes](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_SQL)
+- [BASH notes](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_BASH)
 
 ## Projects outside of class
 
