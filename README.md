@@ -60,7 +60,7 @@
 - [Class 11](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_11)
 - [Class 12](https://dennis-nichols-code-fellows.github.io/reading-notes/301_class_12)
 
-## Code 401 Prepwork
+## Code 401
 
 - [SQL notes](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_SQL)
 - [BASH notes](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_BASH)
