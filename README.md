@@ -64,6 +64,7 @@
 
 - [SQL notes](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_SQL)
 - [BASH notes](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_BASH)
+- [Growth mindset](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_growth)
 
 ## Projects outside of class
 
