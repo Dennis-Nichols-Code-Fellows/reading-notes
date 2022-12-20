@@ -33,3 +33,7 @@ Based on the survey, my strengths are self-awareness and management, whereas my 
 ## Cognitive Bias
 
 I scored lower on the empathy and curiosity section, but I personally believe this is because some of the questions are tuned more towards assessing extroversion/introversion rather than anything bias related. But yeah, it's fair to say that I can be lazy about getting to know people sometimes or at least it's easier for me to reach out when I know we have some common interests from the start. I do think I'm generally pretty good about changing my perspective based on new information. In terms of how to act, I think the most effective thing we can do is act with respect in our personal interactions.
+
+## Things I wanna know more about
+
+I guess I'd be curious about how much evidence there is for any of these theories. Also what the testable definiton of 'grit' is for example. The assertions about the importance of grit are presumably based on associative studies of students early life characteristics and future life outcomes. However this all comes to down to what was measured. So yeah, something to maybe look into someday.
