@@ -67,7 +67,8 @@
 - [Growth mindset](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_growth)
 - [DSA reading](https://dennis-nichols-code-fellows.github.io/reading-notes/401_prep_DSA)
 - ['Engineering' reading](https://dennis-nichols-code-fellows.github.io/reading-notes/401_engineering)
-- [Reading 1](https://dennis-nichols-code-fellows.github.io/reading-notes/401_01)
+- [Reading 01](https://dennis-nichols-code-fellows.github.io/reading-notes/401_01)
+- [Reading 02](https://dennis-nichols-code-fellows.github.io/reading-notes/401_02)
 
 ## Projects outside of class
 
