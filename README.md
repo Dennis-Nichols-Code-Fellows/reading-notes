@@ -69,6 +69,8 @@
 - ['Engineering' reading](https://dennis-nichols-code-fellows.github.io/reading-notes/401_engineering)
 - [Reading 01](https://dennis-nichols-code-fellows.github.io/reading-notes/401_01)
 - [Reading 02](https://dennis-nichols-code-fellows.github.io/reading-notes/401_02)
+- [Reading 03](https://dennis-nichols-code-fellows.github.io/reading-notes/401_03)
+- [Reading 04](https://dennis-nichols-code-fellows.github.io/reading-notes/401_04)
 
 ## Projects outside of class
 
