@@ -74,6 +74,10 @@
 - [Reading 06](https://dennis-nichols-code-fellows.github.io/reading-notes/401_06)
 - [Reading 07](https://dennis-nichols-code-fellows.github.io/reading-notes/401_07)
 - [Reading 08](https://dennis-nichols-code-fellows.github.io/reading-notes/401_08)
+- Note that there are no reading assignments for class 9 and 10 :)
+- [Reading 11](https://dennis-nichols-code-fellows.github.io/reading-notes/401_11)
+- [Reading 12](https://dennis-nichols-code-fellows.github.io/reading-notes/401_12)
+- [Reading 14](https://dennis-nichols-code-fellows.github.io/reading-notes/401_14)
 
 ## Projects outside of class
 
