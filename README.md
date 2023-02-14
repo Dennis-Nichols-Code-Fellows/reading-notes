@@ -90,6 +90,7 @@
 - [Reading 34](https://dennis-nichols-code-fellows.github.io/reading-notes/401_34)
 - [Reading 36](https://dennis-nichols-code-fellows.github.io/reading-notes/401_36)
 - [Reading 41](https://dennis-nichols-code-fellows.github.io/reading-notes/401_41)
+- [Reading 42](https://dennis-nichols-code-fellows.github.io/reading-notes/401_42)
 
 
 ## Projects outside of class
